@@ -1,0 +1,2 @@
+class ApiPlayGroundsController < ApplicationController
+end
